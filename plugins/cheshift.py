@@ -20,7 +20,7 @@ import os
 try:
     import mechanize
 except:
-    print '<'*80 + '\n\nCheShift plug-in needs the mechanize library, please follows the instructions at\nhttp://www.pymolwiki.org/index.php/Pycheshift to install this library.\n\n' + '>'*80
+    print '<'*80 + '\n\nCheShift plug-in needs the mechanize library, please follows the instructions at\nhttp://www.pymolwiki.org/index.php/Cheshift to install this library.\n\n' + '>'*80
 
 
 try:
