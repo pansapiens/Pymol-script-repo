@@ -47,6 +47,7 @@ Date    : May 2012
         Modifies the B-factor columns in your original structures.
 """
 import sets
+from pymol import cmd
 
 def strTrue(p):
   return p[0].upper() == "T"
